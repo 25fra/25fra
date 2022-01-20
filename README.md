@@ -8,4 +8,4 @@
 25fra/25fra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Ciao sono @25fra
+Ciao sono @25fra sono interessato alle applicazioni di AAAr e Aastream di Android auto
